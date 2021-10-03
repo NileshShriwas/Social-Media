@@ -12,6 +12,12 @@
 ![Anushka Social](social4.jpg)
 ### Profile Page
 
+```
+## Features
+- Login, Register, Email & Password Validation of MongoDB Data.
+- Upload Post, Update live preview, Like , Heart
+```
+
 ## 2. You Will Learn
 
 ```
